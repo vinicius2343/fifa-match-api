@@ -1,0 +1,716 @@
+﻿type,team,league,country,rating
+club,FC Andorra,La Liga 2,Andorra,67
+club,Argentinos Juniors,Liga Profesional de Fútbol,Argentina,73
+club,Atlético Tucumán,Liga Profesional de Fútbol,Argentina,71
+club,Barracas Central,Liga Profesional de Fútbol,Argentina,70
+club,Belgrano de Córdoba,Liga Profesional de Fútbol,Argentina,73
+club,Boca Juniors,Liga Profesional de Fútbol,Argentina,76
+club,CA Aldosivi,Liga Profesional de Fútbol,Argentina,69
+club,CA Banfield,Liga Profesional de Fútbol,Argentina,70
+club,Central Cordoba SdE,Liga Profesional de Fútbol,Argentina,69
+club,Club Atlético San Martín,Liga Profesional de Fútbol,Argentina,68
+club,Club Atlético Sarmiento,Liga Profesional de Fútbol,Argentina,69
+club,Club Atlético Unión,Liga Profesional de Fútbol,Argentina,71
+club,Defensa y Justicia,Liga Profesional de Fútbol,Argentina,71
+club,Deportivo Riestra,Liga Profesional de Fútbol,Argentina,67
+club,Estudiantes de La Plata,Liga Profesional de Fútbol,Argentina,75
+club,Gimnasia y Esgrima La Plata,Liga Profesional de Fútbol,Argentina,71
+club,Godoy Cruz,Liga Profesional de Fútbol,Argentina,71
+club,Huracán,Liga Profesional de Fútbol,Argentina,72
+club,Independiente,Liga Profesional de Fútbol,Argentina,73
+club,Independiente Rivadavia,Liga Profesional de Fútbol,Argentina,70
+club,Instituto Atlético Central Córdoba,Liga Profesional de Fútbol,Argentina,70
+club,Lanús,Liga Profesional de Fútbol,Argentina,73
+club,Newell's Old Boys,Liga Profesional de Fútbol,Argentina,72
+club,Platense,Liga Profesional de Fútbol,Argentina,70
+club,Racing Club,Liga Profesional de Fútbol,Argentina,75
+club,River Plate,Liga Profesional de Fútbol,Argentina,77
+club,Rosario Central,Liga Profesional de Fútbol,Argentina,74
+club,San Lorenzo de Almagro,Liga Profesional de Fútbol,Argentina,71
+club,Talleres,Liga Profesional de Fútbol,Argentina,74
+club,Tigre,Liga Profesional de Fútbol,Argentina,70
+club,Vélez Sarsfield,Liga Profesional de Fútbol,Argentina,74
+club,Adelaide United,A-League Men,Australia,65
+club,Brisbane Roar,A-League Men,Australia,63
+club,Central Coast Mariners,A-League Men,Australia,63
+club,Macarthur FC,A-League Men,Australia,64
+club,Melbourne City FC,A-League Men,Australia,66
+club,Melbourne Victory,A-League Men,Australia,65
+club,Newcastle Jets,A-League Men,Australia,64
+club,Perth Glory,A-League Men,Australia,65
+club,Sydney FC,A-League Men,Australia,65
+club,Western Sydney Wanderers,A-League Men,Australia,66
+club,Western United,A-League Men,Australia,64
+club,Blau-Weiß Linz,Bundesliga,Austria,67
+club,FC Red Bull Salzburg,Bundesliga,Austria,72
+club,FK Austria Wien,Bundesliga,Austria,70
+club,Grazer AK 1902,Bundesliga,Austria,65
+club,LASK Linz,Bundesliga,Austria,70
+club,SC Rheindorf Altach,Bundesliga,Austria,66
+club,SK Rapid,Bundesliga,Austria,70
+club,SK Sturm Graz,Bundesliga,Austria,71
+club,SV Ried,Bundesliga,Austria,66
+club,TSV Hartberg,Bundesliga,Austria,66
+club,Wolfsberger AC,Bundesliga,Austria,69
+club,WSG Tirol,Bundesliga,Austria,66
+club,Qarabağ FK,Premyer Liqa,Azerbaijan,70
+club,Cercle Brugge KSV,Pro League,Belgium,69
+club,Club Brugge KV,Pro League,Belgium,75
+club,FCV Dender EH,Pro League,Belgium,68
+club,KAA Gent,Pro League,Belgium,72
+club,KRC Genk,Pro League,Belgium,75
+club,KV Mechelen,Pro League,Belgium,70
+club,KVC Westerlo,Pro League,Belgium,71
+club,Oud-Heverlee Leuven,Pro League,Belgium,71
+club,RAAL La Louvière,Pro League,Belgium,67
+club,Royal Antwerp FC,Pro League,Belgium,72
+club,Royal Charleroi Sporting Club,Pro League,Belgium,70
+club,RSC Anderlecht,Pro League,Belgium,73
+club,Sint-Truidense VV,Pro League,Belgium,69
+club,Standard de Liège,Pro League,Belgium,71
+club,SV Zulte Waregem,Pro League,Belgium,68
+club,Union Saint-Gilloise,Pro League,Belgium,74
+club,Bolívar,División de Fútbol Profesional,Bolivia,70
+club,Gualberto Villarroel SJ,División de Fútbol Profesional,Bolivia,64
+club,Nacional Potosí,División de Fútbol Profesional,Bolivia,65
+club,San Antonio Bulo Bulo,División de Fútbol Profesional,Bolivia,65
+club,Atlético Mineiro,Série A,Brazil,77
+club,Bahia,Série A,Brazil,74
+club,Botafogo,Série A,Brazil,76
+club,Corinthians,Série A,Brazil,75
+club,Cruzeiro,Série A,Brazil,74
+club,Flamengo,Série A,Brazil,78
+club,Fluminense,Série A,Brazil,75
+club,Fortaleza,Série A,Brazil,72
+club,Grêmio,Série A,Brazil,73
+club,Internacional,Série A,Brazil,76
+club,Palmeiras,Série A,Brazil,77
+club,São Paulo,Série A,Brazil,74
+club,Vasco da Gama,Série A,Brazil,71
+club,Vitória,Série A,Brazil,71
+club,CF Montréal,Major League Soccer,Canada,66
+club,Toronto FC,Major League Soccer,Canada,69
+club,Vancouver Whitecaps FC,Major League Soccer,Canada,73
+club,CD Palestino,Primera Division,Chile,70
+club,Colo-Colo,Primera Division,Chile,72
+club,Deportes Iquique,Primera Division,Chile,67
+club,Unión Española,Primera Division,Chile,67
+club,Universidad Católica,Primera Division,Chile,70
+club,Universidad de Chile,Primera Division,Chile,72
+club,Beijing Guoan,Super League,China PR,69
+club,Changchun Yatai,Super League,China PR,64
+club,Chengdu Rongcheng,Super League,China PR,69
+club,Dalian Yingbo,Super League,China PR,66
+club,Henan FC,Super League,China PR,65
+club,Meizhou Hakka,Super League,China PR,65
+club,Qingdao Hainiu FC,Super League,China PR,65
+club,Qingdao West Coast FC,Super League,China PR,65
+club,Shandong Taishan,Super League,China PR,69
+club,Shanghai Port,Super League,China PR,70
+club,Shanghai Shenhua,Super League,China PR,70
+club,Shenzhen Peng City,Super League,China PR,64
+club,Tianjin Jinmen Tiger,Super League,China PR,66
+club,Wuhan Three Towns,Super League,China PR,66
+club,Yunnan Yukun,Super League,China PR,66
+club,Zhejiang FC,Super League,China PR,66
+club,América de Cali,Categoría Primera A,Colombia,71
+club,Atlético Bucaramanga,Categoría Primera A,Colombia,70
+club,Atlético Nacional,Categoría Primera A,Colombia,73
+club,Once Caldas,Categoría Primera A,Colombia,70
+club,Dinamo Zagreb,Hrvatska nogometna liga,Croatia,73
+club,Hajduk Split,Hrvatska nogometna liga,Croatia,71
+club,APOEL FC,1. Division,Cyprus,70
+club,SK Slavia Praha,První liga,Czech Republic,76
+club,Sparta Praha,První liga,Czech Republic,75
+club,Viktoria Plzeň,První liga,Czech Republic,73
+club,Aarhus Gymnastikforening,Superliga,Denmark,70
+club,Brøndby IF,Superliga,Denmark,71
+club,FC København,Superliga,Denmark,73
+club,FC Midtjylland,Superliga,Denmark,72
+club,FC Nordsjælland,Superliga,Denmark,69
+club,Fredericia,Superliga,Denmark,64
+club,Odense Boldklub,Superliga,Denmark,67
+club,Randers FC,Superliga,Denmark,70
+club,Silkeborg IF,Superliga,Denmark,68
+club,Sønderjyske Fodbold,Superliga,Denmark,65
+club,Vejle Boldklub,Superliga,Denmark,67
+club,Viborg FF,Superliga,Denmark,67
+club,Barcelona de Guayaquil,Serie A,Ecuador,70
+club,Independiente del Valle,Serie A,Ecuador,70
+club,LDU Quito,Serie A,Ecuador,71
+club,Mushuc Runa,Serie A,Ecuador,67
+club,Universidad Católica del Ecuador,Serie A,Ecuador,68
+club,Birmingham City,Championship,England,73
+club,Blackburn Rovers,Championship,England,70
+club,Bristol City,Championship,England,72
+club,Charlton Athletic,Championship,England,69
+club,Coventry City,Championship,England,72
+club,Derby County,Championship,England,71
+club,Hull City,Championship,England,72
+club,Ipswich Town,Championship,England,75
+club,Leicester City,Championship,England,74
+club,Middlesbrough,Championship,England,72
+club,Millwall FC,Championship,England,71
+club,Norwich City,Championship,England,72
+club,Oxford United,Championship,England,70
+club,Portsmouth,Championship,England,71
+club,Preston North End,Championship,England,70
+club,Queens Park Rangers,Championship,England,72
+club,Sheffield United,Championship,England,74
+club,Sheffield Wednesday,Championship,England,70
+club,Southampton,Championship,England,73
+club,Stoke City,Championship,England,71
+club,Watford,Championship,England,71
+club,West Bromwich Albion,Championship,England,72
+club,AFC Wimbledon,League One,England,64
+club,Barnsley,League One,England,66
+club,Blackpool FC,League One,England,68
+club,Bolton Wanderers,League One,England,68
+club,Bradford City,League One,England,65
+club,Burton Albion,League One,England,64
+club,Doncaster Rovers,League One,England,64
+club,Exeter City,League One,England,64
+club,Huddersfield Town,League One,England,68
+club,Leyton Orient,League One,England,66
+club,Lincoln City,League One,England,65
+club,Luton Town,League One,England,71
+club,Mansfield Town,League One,England,65
+club,Northampton Town,League One,England,64
+club,Peterborough United,League One,England,65
+club,Plymouth Argyle,League One,England,67
+club,Port Vale,League One,England,66
+club,Reading FC,League One,England,66
+club,Rotherham United,League One,England,66
+club,Stevenage,League One,England,65
+club,Stockport County,League One,England,66
+club,Wigan Athletic,League One,England,66
+club,Wycombe Wanderers,League One,England,67
+club,Accrington Stanley,League Two,England,60
+club,Barnet,League Two,England,63
+club,Barrow,League Two,England,63
+club,Bristol Rovers,League Two,England,64
+club,Bromley,League Two,England,62
+club,Cambridge United,League Two,England,64
+club,Cheltenham Town,League Two,England,63
+club,Chesterfield,League Two,England,64
+club,Colchester United,League Two,England,63
+club,Crawley Town,League Two,England,63
+club,Crewe Alexandra,League Two,England,62
+club,Fleetwood Town,League Two,England,64
+club,Gillingham,League Two,England,64
+club,Grimsby Town,League Two,England,63
+club,Harrogate Town,League Two,England,62
+club,Milton Keynes Dons,League Two,England,66
+club,Newport County,League Two,England,61
+club,Notts County,League Two,England,64
+club,Oldham Athletic,League Two,England,61
+club,Salford City,League Two,England,64
+club,Shrewsbury Town,League Two,England,64
+club,Swindon Town,League Two,England,63
+club,Tranmere Rovers,League Two,England,63
+club,Walsall,League Two,England,63
+club,AFC Bournemouth,Premier League,England,79
+club,Arsenal,Premier League,England,86
+club,Aston Villa,Premier League,England,82
+club,Brentford,Premier League,England,78
+club,Brighton & Hove Albion,Premier League,England,79
+club,Burnley,Premier League,England,76
+club,Chelsea,Premier League,England,82
+club,Crystal Palace,Premier League,England,80
+club,Everton,Premier League,England,79
+club,Fulham FC,Premier League,England,79
+club,Leeds United,Premier League,England,77
+club,Liverpool,Premier League,England,87
+club,Manchester City,Premier League,England,86
+club,Manchester United,Premier League,England,81
+club,Newcastle United,Premier League,England,82
+club,Nottingham Forest,Premier League,England,81
+club,Sunderland,Premier League,England,78
+club,Tottenham Hotspur,Premier League,England,82
+club,West Ham United,Premier League,England,79
+club,Wolverhampton Wanderers,Premier League,England,78
+club,HJK Helsinki,Veikkausliiga,Finland,66
+club,AJ Auxerre,Ligue 1,France,73
+club,Angers SCO,Ligue 1,France,72
+club,FC Lorient,Ligue 1,France,72
+club,FC Metz,Ligue 1,France,72
+club,FC Nantes,Ligue 1,France,74
+club,Le Havre AC,Ligue 1,France,72
+club,Lille OSC,Ligue 1,France,77
+club,OGC Nice,Ligue 1,France,77
+club,Olympique de Marseille,Ligue 1,France,81
+club,Olympique Lyonnais,Ligue 1,France,77
+club,Paris FC,Ligue 1,France,76
+club,Paris Saint-Germain,Ligue 1,France,87
+club,RC Lens,Ligue 1,France,75
+club,RC Strasbourg Alsace,Ligue 1,France,76
+club,Stade Brestois 29,Ligue 1,France,75
+club,Stade Rennais FC,Ligue 1,France,77
+club,Toulouse FC,Ligue 1,France,74
+club,Amiens SC,Ligue 2,France,67
+club,AS Nancy Lorraine,Ligue 2,France,65
+club,AS Saint-Étienne,Ligue 2,France,72
+club,Clermont Foot 63,Ligue 2,France,67
+club,En Avant Guingamp,Ligue 2,France,69
+club,ESTAC Troyes,Ligue 2,France,68
+club,FC Annecy,Ligue 2,France,67
+club,Grenoble Foot 38,Ligue 2,France,68
+club,Le Mans FC,Ligue 2,France,65
+club,Montpellier HSC,Ligue 2,France,71
+club,Pau FC,Ligue 2,France,65
+club,Red Star FC,Ligue 2,France,68
+club,Rodez Aveyron Football,Ligue 2,France,66
+club,Sporting Club Bastia,Ligue 2,France,67
+club,Stade de Reims,Ligue 2,France,72
+club,Stade Lavallois Mayenne FC,Ligue 2,France,68
+club,US Boulogne Cote d'Opale,Ligue 2,France,62
+club,USL Dunkerque,Ligue 2,France,68
+club,1. FC Kaiserslautern,2. Bundesliga,Germany,70
+club,1. FC Magdeburg,2. Bundesliga,Germany,70
+club,1. FC Nürnberg,2. Bundesliga,Germany,69
+club,DSC Arminia Bielefeld,2. Bundesliga,Germany,68
+club,Dynamo Dresden,2. Bundesliga,Germany,68
+club,Eintracht Braunschweig,2. Bundesliga,Germany,68
+club,FC Schalke 04,2. Bundesliga,Germany,70
+club,Fortuna Düsseldorf,2. Bundesliga,Germany,70
+club,Hannover 96,2. Bundesliga,Germany,70
+club,Hertha BSC,2. Bundesliga,Germany,71
+club,Holstein Kiel,2. Bundesliga,Germany,70
+club,Karlsruher SC,2. Bundesliga,Germany,70
+club,SC Paderborn 07,2. Bundesliga,Germany,69
+club,SC Preußen Münster,2. Bundesliga,Germany,69
+club,SpVgg Greuther Fürth,2. Bundesliga,Germany,69
+club,SV Darmstadt 98,2. Bundesliga,Germany,71
+club,SV Elversberg,2. Bundesliga,Germany,69
+club,VfL Bochum 1848,2. Bundesliga,Germany,72
+club,1. FC Saarbrücken,3. Liga,Germany,67
+club,1. FC Schweinfurt 05,3. Liga,Germany,64
+club,Alemannia Aachen,3. Liga,Germany,65
+club,FC Energie Cottbus,3. Liga,Germany,66
+club,FC Erzgebirge Aue,3. Liga,Germany,65
+club,FC Hansa Rostock,3. Liga,Germany,67
+club,FC Ingolstadt 04,3. Liga,Germany,65
+club,MSV Duisburg,3. Liga,Germany,65
+club,Rot-Weiss Essen,3. Liga,Germany,66
+club,SC Verl,3. Liga,Germany,65
+club,SSV Jahn Regensburg,3. Liga,Germany,65
+club,SSV Ulm 1846,3. Liga,Germany,66
+club,SV Waldhof Mannheim,3. Liga,Germany,65
+club,SV Wehen Wiesbaden,3. Liga,Germany,67
+club,TSG 1899 Hoffenheim II,3. Liga,Germany,62
+club,TSV 1860 München,3. Liga,Germany,68
+club,TSV Havelse,3. Liga,Germany,63
+club,VfB Stuttgart II,3. Liga,Germany,62
+club,VfL Osnabrück,3. Liga,Germany,66
+club,Viktoria Köln,3. Liga,Germany,65
+club,1. FC Heidenheim 1846,Bundesliga,Germany,74
+club,1. FC Köln,Bundesliga,Germany,75
+club,1. FC Union Berlin,Bundesliga,Germany,76
+club,1. FSV Mainz 05,Bundesliga,Germany,77
+club,Bayer 04 Leverkusen,Bundesliga,Germany,81
+club,Borussia Dortmund,Bundesliga,Germany,83
+club,Borussia Mönchengladbach,Bundesliga,Germany,77
+club,Eintracht Frankfurt,Bundesliga,Germany,80
+club,FC Augsburg,Bundesliga,Germany,76
+club,FC Bayern München,Bundesliga,Germany,86
+club,FC St. Pauli,Bundesliga,Germany,73
+club,Hamburger SV,Bundesliga,Germany,74
+club,RB Leipzig,Bundesliga,Germany,80
+club,SC Freiburg,Bundesliga,Germany,77
+club,SV Werder Bremen,Bundesliga,Germany,77
+club,TSG 1899 Hoffenheim,Bundesliga,Germany,76
+club,VfB Stuttgart,Bundesliga,Germany,79
+club,VfL Wolfsburg,Bundesliga,Germany,78
+club,AEK Athens,Super League,Greece,76
+club,Olympiacos FC,Super League,Greece,78
+club,Panathinaikos FC,Super League,Greece,75
+club,PAOK,Super League,Greece,75
+club,Ferencvárosi Torna Club,Nemzeti Bajnokság I,Hungary,73
+club,Bengaluru FC,Super League,India,61
+club,Chennaiyin FC,Super League,India,58
+club,East Bengal FC,Super League,India,61
+club,FC Goa,Super League,India,64
+club,Hyderabad FC,Super League,India,57
+club,Jamshedpur FC,Super League,India,59
+club,Kerala Blasters FC,Super League,India,58
+club,Mohammedan SC,Super League,India,63
+club,Mohun Bagan Super Giant,Super League,India,67
+club,Mumbai City FC,Super League,India,63
+club,NorthEast United,Super League,India,64
+club,Odisha FC,Super League,India,59
+club,Punjab FC,Super League,India,53
+club,United Tigers SC,Super League,India,61
+club,AC Milan,Serie A,Italy,82
+club,Atalanta,Serie A,Italy,81
+club,Bologna,Serie A,Italy,78
+club,Cagliari,Serie A,Italy,75
+club,Como,Serie A,Italy,78
+club,Cremonese,Serie A,Italy,74
+club,Fiorentina,Serie A,Italy,79
+club,Genoa,Serie A,Italy,74
+club,Hellas Verona FC,Serie A,Italy,74
+club,Inter,Serie A,Italy,85
+club,Juventus,Serie A,Italy,82
+club,Lazio,Serie A,Italy,80
+club,Lecce,Serie A,Italy,74
+club,Napoli,Serie A,Italy,83
+club,Parma,Serie A,Italy,74
+club,Pisa,Serie A,Italy,73
+club,Roma,Serie A,Italy,81
+club,Sassuolo,Serie A,Italy,75
+club,Torino,Serie A,Italy,77
+club,Udinese,Serie A,Italy,74
+club,Avellino,Serie B,Italy,68
+club,Carrarese,Serie B,Italy,68
+club,Catanzaro,Serie B,Italy,70
+club,Cesena FC,Serie B,Italy,69
+club,Empoli,Serie B,Italy,69
+club,Frosinone,Serie B,Italy,68
+club,Mantova,Serie B,Italy,68
+club,Modena,Serie B,Italy,70
+club,Monza,Serie B,Italy,73
+club,Padova,Serie B,Italy,68
+club,Palermo FC,Serie B,Italy,73
+club,Pescara,Serie B,Italy,69
+club,Reggiana,Serie B,Italy,68
+club,Sampdoria,Serie B,Italy,71
+club,Spezia,Serie B,Italy,70
+club,SS Juve Stabia,Serie B,Italy,68
+club,SSC Bari,Serie B,Italy,70
+club,Südtirol,Serie B,Italy,68
+club,Venezia,Serie B,Italy,71
+club,Virtus Entella,Serie B,Italy,68
+club,Daegu FC,K League 1,Korea Republic,67
+club,Daejeon Citizen,K League 1,Korea Republic,70
+club,FC Anyang,K League 1,Korea Republic,67
+club,FC Seoul,K League 1,Korea Republic,70
+club,Gangwon FC,K League 1,Korea Republic,68
+club,Gimcheon Sangmu FC,K League 1,Korea Republic,67
+club,Gwangju FC,K League 1,Korea Republic,66
+club,Jeju United FC,K League 1,Korea Republic,67
+club,Jeonbuk Hyundai Motors,K League 1,Korea Republic,70
+club,Pohang Steelers,K League 1,Korea Republic,70
+club,Suwon FC,K League 1,Korea Republic,66
+club,Ulsan HD FC,K League 1,Korea Republic,71
+club,AS Monaco,Ligue 1,Monaco,79
+club,Ajax,Eredivisie,Netherlands,77
+club,AZ Alkmaar,Eredivisie,Netherlands,74
+club,Excelsior,Eredivisie,Netherlands,67
+club,FC Groningen,Eredivisie,Netherlands,68
+club,FC Twente,Eredivisie,Netherlands,73
+club,FC Utrecht,Eredivisie,Netherlands,73
+club,FC Volendam,Eredivisie,Netherlands,66
+club,Feyenoord,Eredivisie,Netherlands,76
+club,Fortuna Sittard,Eredivisie,Netherlands,69
+club,Go Ahead Eagles,Eredivisie,Netherlands,71
+club,Heracles Almelo,Eredivisie,Netherlands,68
+club,NAC Breda,Eredivisie,Netherlands,67
+club,NEC Nijmegen,Eredivisie,Netherlands,72
+club,PEC Zwolle,Eredivisie,Netherlands,68
+club,PSV,Eredivisie,Netherlands,78
+club,SC Heerenveen,Eredivisie,Netherlands,68
+club,Sparta Rotterdam,Eredivisie,Netherlands,69
+club,Telstar,Eredivisie,Netherlands,65
+club,Auckland FC,A-League Men,New Zealand,67
+club,Wellington Phoenix,A-League Men,New Zealand,62
+club,Derry City,Premier Division,Northern Ireland,62
+club,Bryne FK,Eliteserien,Norway,64
+club,FK Bodø/Glimt,Eliteserien,Norway,72
+club,FK Haugesund,Eliteserien,Norway,65
+club,Fredrikstad FK,Eliteserien,Norway,67
+club,Hamarkameratene,Eliteserien,Norway,65
+club,KFUM-Kameratene Oslo,Eliteserien,Norway,64
+club,Kristiansund BK,Eliteserien,Norway,64
+club,Molde FK,Eliteserien,Norway,70
+club,Rosenborg BK,Eliteserien,Norway,70
+club,Sandefjord Fotball,Eliteserien,Norway,65
+club,Sarpsborg 08 FF,Eliteserien,Norway,67
+club,SK Brann,Eliteserien,Norway,70
+club,Strømsgodset IF,Eliteserien,Norway,66
+club,Tromsø IL,Eliteserien,Norway,66
+club,Vålerenga Fotball,Eliteserien,Norway,67
+club,Viking FK,Eliteserien,Norway,70
+club,Cerro Porteño,División Profesional,Paraguay,71
+club,Club Olimpia,División Profesional,Paraguay,69
+club,Guaraní,División Profesional,Paraguay,67
+club,Libertad,División Profesional,Paraguay,72
+club,Sportivo Luqueño,División Profesional,Paraguay,66
+club,Alianza Lima,Liga 1,Peru,71
+club,Atlético Grau,Liga 1,Peru,67
+club,Cienciano,Liga 1,Peru,67
+club,FBC Melgar,Liga 1,Peru,70
+club,Sporting Cristal,Liga 1,Peru,70
+club,Universitario de Deportes,Liga 1,Peru,71
+club,Arka Gdynia,Ekstraklasa,Poland,65
+club,Bruk-Bet Termalica Nieciecza,Ekstraklasa,Poland,65
+club,Cracovia,Ekstraklasa,Poland,68
+club,GKS Katowice,Ekstraklasa,Poland,67
+club,Górnik Zabrze,Ekstraklasa,Poland,68
+club,Jagiellonia Białystok,Ekstraklasa,Poland,70
+club,Korona Kielce,Ekstraklasa,Poland,67
+club,Lech Poznań,Ekstraklasa,Poland,71
+club,Lechia Gdańsk,Ekstraklasa,Poland,67
+club,Legia Warszawa,Ekstraklasa,Poland,71
+club,Motor Lublin,Ekstraklasa,Poland,67
+club,Piast Gliwice,Ekstraklasa,Poland,67
+club,Pogoń Szczecin,Ekstraklasa,Poland,69
+club,Radomiak Radom,Ekstraklasa,Poland,67
+club,Raków Częstochowa,Ekstraklasa,Poland,71
+club,Widzew Łódź,Ekstraklasa,Poland,69
+club,Wisła Płock,Ekstraklasa,Poland,66
+club,Zagłębie Lubin,Ekstraklasa,Poland,66
+club,Alverca,Primeira Liga,Portugal,69
+club,AVS Futebol SAD,Primeira Liga,Portugal,69
+club,Casa Pia,Primeira Liga,Portugal,71
+club,CD Nacional,Primeira Liga,Portugal,70
+club,CD Tondela,Primeira Liga,Portugal,69
+club,Estrela da Amadora,Primeira Liga,Portugal,69
+club,Famalicão,Primeira Liga,Portugal,72
+club,FC Arouca,Primeira Liga,Portugal,70
+club,FC Porto,Primeira Liga,Portugal,78
+club,GD Estoril Praia,Primeira Liga,Portugal,72
+club,Gil Vicente FC,Primeira Liga,Portugal,70
+club,Moreirense FC,Primeira Liga,Portugal,70
+club,Rio Ave FC,Primeira Liga,Portugal,71
+club,Santa Clara,Primeira Liga,Portugal,71
+club,SL Benfica,Primeira Liga,Portugal,80
+club,Sporting Clube de Braga,Primeira Liga,Portugal,77
+club,Sporting CP,Primeira Liga,Portugal,80
+club,Vitória SC,Primeira Liga,Portugal,71
+club,Bohemian FC,Premier Division,Republic of Ireland,62
+club,Cork City,Premier Division,Republic of Ireland,58
+club,Drogheda United,Premier Division,Republic of Ireland,60
+club,Galway United,Premier Division,Republic of Ireland,60
+club,Shamrock Rovers,Premier Division,Republic of Ireland,63
+club,Shelbourne FC,Premier Division,Republic of Ireland,63
+club,Sligo Rovers,Premier Division,Republic of Ireland,59
+club,St Patrick's Athletic FC,Premier Division,Republic of Ireland,64
+club,Waterford FC,Premier Division,Republic of Ireland,59
+club,Asociația Clubul Sportiv Petrolul 52,Liga I,Romania,66
+club,CFR Cluj,Liga I,Romania,70
+club,Csíkszereda Miercurea Ciuc,Liga I,Romania,63
+club,Dinamo Bucureşti,Liga I,Romania,68
+club,FC Argeș,Liga I,Romania,64
+club,FC Botoşani,Liga I,Romania,66
+club,FC Hermannstadt,Liga I,Romania,66
+club,FCSB,Liga I,Romania,71
+club,FCV Farul Constanța,Liga I,Romania,67
+club,Metaloglobus București,Liga I,Romania,62
+club,Oțelul Galați,Liga I,Romania,66
+club,Rapid Bucuresti,Liga I,Romania,69
+club,Unirea Slobozia,Liga I,Romania,64
+club,Universitatea Cluj,Liga I,Romania,68
+club,Universitatea Craiova,Liga I,Romania,69
+club,UTA Arad,Liga I,Romania,66
+club,Al Ahli SFC,Pro League,Saudi Arabia,78
+club,Al Akhdoud Saudi Club,Pro League,Saudi Arabia,68
+club,Al Ettifaq,Pro League,Saudi Arabia,72
+club,Al Fateh,Pro League,Saudi Arabia,71
+club,Al Fayha,Pro League,Saudi Arabia,70
+club,Al Hazem FC,Pro League,Saudi Arabia,67
+club,Al Hilal,Pro League,Saudi Arabia,82
+club,Al Ittihad,Pro League,Saudi Arabia,79
+club,Al Khaleej,Pro League,Saudi Arabia,72
+club,Al Kholood,Pro League,Saudi Arabia,68
+club,Al Nassr,Pro League,Saudi Arabia,79
+club,Al Qadsiah FC,Pro League,Saudi Arabia,78
+club,Al Riyadh,Pro League,Saudi Arabia,70
+club,Al Shabab,Pro League,Saudi Arabia,73
+club,Al Taawoun FC,Pro League,Saudi Arabia,72
+club,Al-Najma SC,Pro League,Saudi Arabia,68
+club,Damac FC,Pro League,Saudi Arabia,68
+club,NEOM SC,Pro League,Saudi Arabia,74
+club,Aberdeen,Premiership,Scotland,70
+club,Celtic,Premiership,Scotland,77
+club,Dundee FC,Premiership,Scotland,64
+club,Dundee United FC,Premiership,Scotland,66
+club,Falkirk,Premiership,Scotland,62
+club,Hearts,Premiership,Scotland,70
+club,Hibernian,Premiership,Scotland,70
+club,Kilmarnock,Premiership,Scotland,65
+club,Livingston FC,Premiership,Scotland,65
+club,Motherwell FC,Premiership,Scotland,66
+club,Rangers FC,Premiership,Scotland,74
+club,St. Mirren,Premiership,Scotland,65
+club,Athletic Club,La Liga,Spain,82
+club,Atlético Madrid,La Liga,Spain,84
+club,CA Osasuna,La Liga,Spain,78
+club,Deportivo Alavés,La Liga,Spain,75
+club,Elche CF,La Liga,Spain,74
+club,FC Barcelona,La Liga,Spain,86
+club,Getafe CF,La Liga,Spain,77
+club,Girona FC,La Liga,Spain,78
+club,Levante UD,La Liga,Spain,74
+club,Rayo Vallecano,La Liga,Spain,78
+club,RC Celta,La Liga,Spain,78
+club,RCD Espanyol,La Liga,Spain,76
+club,RCD Mallorca,La Liga,Spain,78
+club,Real Betis Balompié,La Liga,Spain,80
+club,Real Madrid,La Liga,Spain,87
+club,Real Oviedo,La Liga,Spain,74
+club,Real Sociedad,La Liga,Spain,80
+club,Sevilla FC,La Liga,Spain,76
+club,Valencia CF,La Liga,Spain,77
+club,Villarreal CF,La Liga,Spain,80
+club,AD Ceuta FC,La Liga 2,Spain,67
+club,Albacete Balompié,La Liga 2,Spain,70
+club,Burgos CF,La Liga 2,Spain,70
+club,Cádiz CF,La Liga 2,Spain,71
+club,CD Castellón,La Liga 2,Spain,68
+club,CD Leganés,La Liga 2,Spain,72
+club,CD Mirandés,La Liga 2,Spain,68
+club,Córdoba CF,La Liga 2,Spain,70
+club,Cultural Leonesa,La Liga 2,Spain,68
+club,Granada CF,La Liga 2,Spain,70
+club,Málaga CF,La Liga 2,Spain,69
+club,Racing Santander,La Liga 2,Spain,71
+club,RC Deportivo de La Coruña,La Liga 2,Spain,72
+club,Real Sociedad de Fútbol B,La Liga 2,Spain,64
+club,Real Sporting de Gijón,La Liga 2,Spain,71
+club,Real Valladolid CF,La Liga 2,Spain,71
+club,Real Zaragoza,La Liga 2,Spain,71
+club,SD Eibar,La Liga 2,Spain,70
+club,SD Huesca,La Liga 2,Spain,69
+club,UD Almería,La Liga 2,Spain,73
+club,UD Las Palmas,La Liga 2,Spain,73
+club,AIK,Allsvenskan,Sweden,69
+club,BK Häcken,Allsvenskan,Sweden,70
+club,Degerfors IF,Allsvenskan,Sweden,65
+club,Djurgårdens IF,Allsvenskan,Sweden,69
+club,GAIS,Allsvenskan,Sweden,65
+club,Halmstads BK,Allsvenskan,Sweden,64
+club,Hammarby Fotboll,Allsvenskan,Sweden,70
+club,IF Brommapojkarna,Allsvenskan,Sweden,65
+club,IF Elfsborg,Allsvenskan,Sweden,69
+club,IFK Göteborg,Allsvenskan,Sweden,67
+club,IFK Norrköping,Allsvenskan,Sweden,66
+club,IFK Värnamo,Allsvenskan,Sweden,65
+club,IK Sirius,Allsvenskan,Sweden,66
+club,Malmö FF,Allsvenskan,Sweden,72
+club,Mjällby AIF,Allsvenskan,Sweden,69
+club,Östers IF,Allsvenskan,Sweden,64
+club,BSC Young Boys,Super League,Switzerland,72
+club,FC Basel 1893,Super League,Switzerland,73
+club,FC Lausanne-Sport,Super League,Switzerland,68
+club,FC Lugano,Super League,Switzerland,71
+club,FC Luzern,Super League,Switzerland,68
+club,FC Sion,Super League,Switzerland,68
+club,FC St.Gallen 1879,Super League,Switzerland,70
+club,FC Thun,Super League,Switzerland,66
+club,FC Winterthur,Super League,Switzerland,66
+club,FC Zürich,Super League,Switzerland,68
+club,Grasshopper Club Zürich,Super League,Switzerland,66
+club,Servette FC,Super League,Switzerland,71
+club,Alanyaspor,Süper Lig,Turkey,71
+club,Antalyaspor,Süper Lig,Turkey,71
+club,Beşiktaş JK,Süper Lig,Turkey,77
+club,Çaykur Rizespor,Süper Lig,Turkey,72
+club,Eyüpspor,Süper Lig,Turkey,72
+club,Fatih Karagümrük,Süper Lig,Turkey,71
+club,Fenerbahçe SK,Süper Lig,Turkey,80
+club,Galatasaray SK,Süper Lig,Turkey,82
+club,Gaziantep FK,Süper Lig,Turkey,72
+club,Gençlerbirliği SK,Süper Lig,Turkey,71
+club,Göztepe SK,Süper Lig,Turkey,69
+club,Kasımpaşa SK,Süper Lig,Turkey,71
+club,Kayserispor,Süper Lig,Turkey,71
+club,Kocaelispor,Süper Lig,Turkey,71
+club,Konyaspor,Süper Lig,Turkey,70
+club,Medipol Başakşehir FK,Süper Lig,Turkey,74
+club,Samsunspor,Süper Lig,Turkey,73
+club,Trabzonspor,Süper Lig,Turkey,76
+club,Dynamo Kyiv,Premier League,Ukraine,73
+club,Shakhtar Donetsk,Premier League,Ukraine,73
+club,Al Ain,Pro League,United Arab Emirates,72
+club,Atlanta United,Major League Soccer,United States,72
+club,Austin FC,Major League Soccer,United States,71
+club,Charlotte FC,Major League Soccer,United States,72
+club,Chicago Fire,Major League Soccer,United States,72
+club,Colorado Rapids,Major League Soccer,United States,71
+club,Columbus Crew,Major League Soccer,United States,71
+club,DC United,Major League Soccer,United States,69
+club,FC Cincinnati,Major League Soccer,United States,73
+club,FC Dallas,Major League Soccer,United States,68
+club,Houston Dynamo,Major League Soccer,United States,70
+club,Inter Miami,Major League Soccer,United States,75
+club,LA Galaxy,Major League Soccer,United States,73
+club,Los Angeles FC,Major League Soccer,United States,73
+club,Minnesota United FC,Major League Soccer,United States,72
+club,Nashville SC,Major League Soccer,United States,71
+club,New England Revolution,Major League Soccer,United States,72
+club,New York City FC,Major League Soccer,United States,71
+club,New York Red Bulls,Major League Soccer,United States,71
+club,Orlando City SC,Major League Soccer,United States,71
+club,Philadelphia Union,Major League Soccer,United States,71
+club,Portland Timbers,Major League Soccer,United States,72
+club,Real Salt Lake,Major League Soccer,United States,71
+club,San Diego FC,Major League Soccer,United States,72
+club,San Jose Earthquakes,Major League Soccer,United States,71
+club,Seattle Sounders FC,Major League Soccer,United States,73
+club,Sporting Kansas City,Major League Soccer,United States,71
+club,St. Louis CITY SC,Major League Soccer,United States,70
+club,Boston River,Primera División,Uruguay,67
+club,Cerro Largo,Primera División,Uruguay,66
+club,Club Nacional de Football,Primera División,Uruguay,72
+club,Peñarol,Primera División,Uruguay,72
+club,Racing Club de Montevideo,Primera División,Uruguay,67
+club,Academia Puerto Cabello,Primera Division,Venezuela,66
+club,Carabobo FC,Primera Division,Venezuela,68
+club,Caracas FC,Primera Division,Venezuela,66
+club,Deportivo Táchira,Primera Division,Venezuela,68
+club,Swansea City,Championship,Wales,72
+club,Wrexham,Championship,Wales,72
+club,Cardiff City,League One,Wales,70
+national_team,Argentina,,Argentina,85
+national_team,Australia,,Australia,73
+national_team,Austria,,Austria,79
+national_team,Belgium,,Belgium,84
+national_team,Bosnia & Herzegovina,,Bosnia & Herzegovina,76
+national_team,Brazil,,Brazil,86
+national_team,Cabo Verde,,Cabo Verde,72
+national_team,Canada,,Canada,77
+national_team,Colombia,,Colombia,80
+national_team,Congo DR,,Congo DR,76
+national_team,Croatia,,Croatia,81
+national_team,Czech Republic,,Czech Republic,78
+national_team,Denmark,,Denmark,80
+national_team,Ecuador,,Ecuador,77
+national_team,England,,England,86
+national_team,Finland,,Finland,73
+national_team,France,,France,87
+national_team,Germany,,Germany,86
+national_team,Ghana,,Ghana,78
+national_team,Haiti,,Haiti,69
+national_team,Holland,,Holland,85
+national_team,Hungary,,Hungary,78
+national_team,Iceland,,Iceland,73
+national_team,Indonesia,,Indonesia,70
+national_team,Italy,,Italy,85
+national_team,Ivory Coast,,Ivory Coast,79
+national_team,Korea Republic,,Korea Republic,77
+national_team,Mexico,,Mexico,78
+national_team,Morocco,,Morocco,81
+national_team,New Zealand,,New Zealand,71
+national_team,Northern Ireland,,Northern Ireland,72
+national_team,Norway,,Norway,80
+national_team,Panama,,Panama,69
+national_team,Paraguay,,Paraguay,76
+national_team,Poland,,Poland,80
+national_team,Portugal,,Portugal,85
+national_team,Qatar,,Qatar,73
+national_team,Republic of Ireland,,Republic of Ireland,75
+national_team,Romania,,Romania,75
+national_team,Saudi Arabia,,Saudi Arabia,73
+national_team,Scotland,,Scotland,79
+national_team,Senegal,,Senegal,80
+national_team,South Africa,,South Africa,68
+national_team,Spain,,Spain,86
+national_team,Sweden,,Sweden,80
+national_team,Switzerland,,Switzerland,81
+national_team,Tunisia,,Tunisia,73
+national_team,Turkiye,,Turkiye,80
+national_team,Ukraine,,Ukraine,79
+national_team,United States,,United States,80
+national_team,Uruguay,,Uruguay,81
+national_team,Uzbekistan,,Uzbekistan,69
+national_team,Wales,,Wales,76
