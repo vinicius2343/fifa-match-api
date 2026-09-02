@@ -27,29 +27,16 @@ public class TeamCsvImporter implements CommandLineRunner {
             return;
         }
 
-        InputStream inputStream =
-                getClass()
-                        .getClassLoader()
-                        .getResourceAsStream("teams.csv");
+        InputStream inputStream = getClass().getClassLoader().getResourceAsStream("teams.csv");
 
         if (inputStream == null) {
-            throw new IllegalStateException(
-                    "Arquivo teams.csv não encontrado."
-            );
+            throw new IllegalStateException("Arquivo teams.csv não encontrado.");
         }
 
-        try (BufferedReader reader = new BufferedReader(
-                new InputStreamReader(
-                        inputStream,
-                        StandardCharsets.UTF_8
-                )
-        )) {
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream, StandardCharsets.UTF_8))) {
 
             String line;
-
-            // Ignora o cabeçalho
             reader.readLine();
-
             while ((line = reader.readLine()) != null) {
 
                 if (line.isBlank()) {
@@ -60,18 +47,12 @@ public class TeamCsvImporter implements CommandLineRunner {
 
                 Team team = new Team();
 
-                team.setType(
-                        TeamType.valueOf(
-                                columns[0].trim().toUpperCase()
-                        )
-                );
+                team.setType(TeamType.valueOf(columns[0].trim().toUpperCase()));
 
                 team.setName(columns[1].trim());
                 team.setLeague(columns[2].trim());
                 team.setCountry(columns[3].trim());
-                team.setRating(
-                        Integer.parseInt(columns[4].trim())
-                );
+                team.setRating(Integer.parseInt(columns[4].trim()));
 
                 teamRepository.save(team);
             }

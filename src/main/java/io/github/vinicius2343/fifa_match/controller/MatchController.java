@@ -4,6 +4,7 @@ import io.github.vinicius2343.fifa_match.dto.FiltersResponse;
 import io.github.vinicius2343.fifa_match.dto.MatchRandomizeRequest;
 import io.github.vinicius2343.fifa_match.dto.MatchRandomizeResponse;
 import io.github.vinicius2343.fifa_match.service.MatchService;
+import jakarta.validation.Valid;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -19,19 +20,11 @@ public class MatchController {
 
     @GetMapping("/filters")
     public ResponseEntity<FiltersResponse> getFilters() {
-
-        return ResponseEntity.ok(
-                matchService.getFilters()
-        );
+        return ResponseEntity.ok(matchService.getFilters());
     }
 
     @PostMapping("/randomize")
-    public ResponseEntity<MatchRandomizeResponse> randomize(
-            @RequestBody MatchRandomizeRequest request
-    ) {
-
-        return ResponseEntity.ok(
-                matchService.randomize(request)
-        );
+    public ResponseEntity<MatchRandomizeResponse> randomize(@Valid @RequestBody MatchRandomizeRequest request) {
+        return ResponseEntity.ok(matchService.randomize(request));
     }
 }
