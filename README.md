@@ -281,7 +281,7 @@ Contribuições são bem-vindas! Por favor:
 
 ## 📄 Licença
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto é de uso pessoal e está disponível para fins de estudo e utilização entre amigos.
 
 ## 👨‍💻 Autor
 
@@ -294,4 +294,4 @@ Para reportar issues ou sugerir melhorias, abra uma [issue no GitHub](https://gi
 
 ---
 
-**Desenvolvido com ❤️ por Vinicius2343**
+**Desenvolvido por Vinicius2343**
