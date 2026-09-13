@@ -1,6 +1,5 @@
 package io.github.vinicius2343.fifa_match.repository;
 
-import io.github.vinicius2343.fifa_match.enums.TeamType;
 import io.github.vinicius2343.fifa_match.model.Team;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
